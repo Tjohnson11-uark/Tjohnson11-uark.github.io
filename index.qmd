@@ -1,0 +1,16 @@
+---
+title: "Tyler Johnson"
+image: Headshot.jpeg
+about:
+  template: jolla
+  links:
+  - icon: github
+    text: GitHub
+    href: https://github.com/Tjohnson11-uark
+  - icon: linkedin
+    text: LinkedIn
+    href: https://linkedin.com/in/tyler-johnson-602uark/
+  - icon: inboxes
+    text: Contact
+    href: mailto:tjohnson11@uark.edu 
+---
