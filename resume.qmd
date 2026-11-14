@@ -2,8 +2,8 @@
 title: "Resume"
 ---
 
-<iframe width="800" height = "1000"
-src="resume.pdf">
+<iframe width="800" height="1000" src="resume.pdf">
 
 </iframe>
----
+
+------------------------------------------------------------------------
